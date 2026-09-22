@@ -1,0 +1,13 @@
+Command:
+nslookup -type=A example.com
+
+Output:
+
+Server:  UnKnown
+Address: 192.168.0.1
+
+Non-authoritative answer:
+Name:    example.com
+Addresses:
+104.20.23.154
+172.66.147.243

@@ -1,0 +1,4 @@
+Command:
+netstat -an | findstr ESTABLISHED
+
+Output:

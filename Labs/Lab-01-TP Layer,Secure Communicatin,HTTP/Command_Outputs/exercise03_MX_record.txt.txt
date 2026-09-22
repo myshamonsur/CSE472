@@ -1,0 +1,4 @@
+Command:
+nslookup -type=MX gmail.com
+
+Output:

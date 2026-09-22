@@ -1,0 +1,4 @@
+Command:
+curl -I http://example.com
+
+Output:

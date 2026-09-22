@@ -1,0 +1,13 @@
+Command:
+nslookup google.com
+
+Output:
+
+Server:  UnKnown
+Address: 192.168.0.1
+
+Non-authoritative answer:
+Name:    google.com
+Addresses:
+2404:6800:4007:80f::200e
+142.250.77.142

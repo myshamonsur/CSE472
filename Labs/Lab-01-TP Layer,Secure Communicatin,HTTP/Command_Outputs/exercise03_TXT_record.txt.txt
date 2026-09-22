@@ -1,0 +1,4 @@
+Command:
+nslookup -type=TXT gmail.com
+
+Output:
